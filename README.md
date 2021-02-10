@@ -1,16 +1,18 @@
-### Hi there 👋
+# Welcome to My Profile! 👋 
+![https://t.me/araynvikash](https://img.shields.io/badge/discord-toonshub-darkviolet)
+ ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/toonshub/)
 
-<!--
-**ToonsHub/toonshub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Q | A
+--- | --- 
+**Platforms I develop for** | `Web`
+**Languages I know**  | `HTML, CSS, JS`
+**Languages I learning** | `PHP`
+
+
+
+ ‏‏‎ ‎| ‏‏‎ ‎
+ --- | ---
+![ToonsHub's github stats](https://github-readme-stats.vercel.app/api?username=toonshub&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=toonshub&theme=radical&layout=compact)
+
