@@ -1,18 +1,22 @@
-# Welcome to My Profile! 👋 
-![https://t.me/araynvikash](https://img.shields.io/badge/discord-toonshub-darkviolet)
- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/toonshub/)
+<div align="center">
+<h2>Hi there <img src="https://i.postimg.cc/bJnChYnj/Hi-Emoji.gif" width="30px">, My Name Is ToonsHub</h2>
 
+<div align="center" width="50">
 
+<code>I'm a just another student who want to be a code wizard. 😎</code>
 
-Q | A
---- | --- 
-**Platforms I develop for** | `Web`
-**Languages I know**  | `HTML, CSS, JS`
-**Languages I learning** | `PHP`
+<code>I Spend My Free Time On [![discord badge](https://img.shields.io/badge/-Discord-purple?style=flat&logo=discord)](https://discord.gg/2mPFKykW4j)</a> 😇</code>
 
+<img src="https://i.postimg.cc/15sWkQ5L/Coding.gif" alt="coding ?">
 
+<b>Skills :</b> <code>JS</code> | <code>PHP</code> | <code>HTML</code> | <code>CSS</code>
 
- ‏‏‎ ‎| ‏‏‎ ‎
- --- | ---
-![ToonsHub's github stats](https://github-readme-stats.vercel.app/api?username=toonshub&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=toonshub&theme=radical&layout=compact)
+![MannyHackers Github Stats](https://github-readme-stats.vercel.app/api?username=ToonsHub&theme=blue-green&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToonsHub&layout=compact)](https://github.com/MannyHackers/GithubProfile)
+
+<br><img src="https://gpvc.arturio.dev/MannyHackers" alt="Profile Views">
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MannyHackers)
+
+</div>
