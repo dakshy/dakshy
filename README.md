@@ -15,8 +15,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToonsHub&layout=compact)](https://github.com/MannyHackers/GithubProfile)
 
-<br><img src="https://gpvc.arturio.dev/MannyHackers" alt="Profile Views">
+<br><img src="https://gpvc.arturio.dev/ToonsHub" alt="Profile Views">
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MannyHackers)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ToonsHub)
 
 </div>
