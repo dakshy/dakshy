@@ -5,7 +5,7 @@
 
 <code>I'm a just another student who want to be a code wizard. 😎</code>
 
-<code>I Spend My Free Time On [![discord badge](https://img.shields.io/badge/-Discord-purple?style=flat&logo=discord)](https://discord.gg/2mPFKykW4j)</a> 😇</code>
+<code>I Spend My Free Time On [![discord badge](https://img.shields.io/badge/-Discord-white?style=flat&logo=discord)](https://discord.gg/2mPFKykW4j)</a> 😇</code>
 
 <img src="https://i.postimg.cc/15sWkQ5L/Coding.gif" alt="coding ?">
 
