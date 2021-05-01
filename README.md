@@ -1,22 +1,36 @@
-<div align="center">
-<h2>Hi there <img src="https://i.postimg.cc/bJnChYnj/Hi-Emoji.gif" width="30px">, My Name Is ToonsHub</h2>
+### Hi there, I'm ToonsHub - aka [Daksh][website] 👋
 
-<div align="center" width="50">
+[![Website](https://img.shields.io/website?label=toonshub.ml&style=for-the-badge&url=https%3A%2F%2Ftoon-nation.ml)](https://toonshub.ml)
 
-<code>I'm a just another student who want to be a code wizard. 😎</code>
+## I'm a Web Developer
 
-<code>I Spend My Free Time On [![discord badge](https://img.shields.io/badge/-Discord-white?style=flat&logo=discord)](https://discord.gg/2mPFKykW4j)</a> 😇</code>
+- 🔭 I am currently learning to code 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: Be better than that of 2020
+- ⚡ Fun fact: I love to watch cartoons!!
 
-<img src="https://i.postimg.cc/15sWkQ5L/Coding.gif" alt="coding ?">
+### Connect with me:
 
-<b>Skills :</b> <code>JS</code> | <code>PHP</code> | <code>HTML</code> | <code>CSS</code>
+[<img align="left" alt="toonshub.ml" width="22px" src="https://i.postimg.cc/L6j4tKxy/globe.png" />][website]
+[<img align="left" alt="TN | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" />][youtube]
+[<img align="left" alt="TN | Discord" width="22px" src="https://i.postimg.cc/rs16rcqx/discord-512.png" />][discord]
+<br />
 
-![MannyHackers Github Stats](https://github-readme-stats.vercel.app/api?username=ToonsHub&theme=blue-green&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToonsHub&layout=compact)](https://github.com/MannyHackers/GithubProfile)
+[website]: https://toonshub.ml
+[youtube]: https://www.youtube.com/channel/UCL_YVurWT5RGkeHGbmG1odA
+[discord]: https://discord.gg/2mPFKykW4j
 
-<br><img src="https://gpvc.arturio.dev/ToonsHub" alt="Profile Views">
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ToonsHub)
+### Languages and Tools:
 
-</div>
+<img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+
+
+
+![ToonsHub's github stats](https://github-readme-stats.vercel.app/api?username=ToonsHub&show_icons=true&theme=radical&include_all_commits=true) | ![ToonsHub's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ToonsHub&theme=radical&layout=compact)
+
