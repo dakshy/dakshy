@@ -13,7 +13,7 @@
 ### Connect with me:
 
 [<img align="left" alt="toonshub.ga" width="22px" src="https://i.postimg.cc/L6j4tKxy/globe.png" />][website]
-[<img align="left" alt="ToonsHub | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" />][youtube]
+[<img align="left" alt="ToonsHub | YouTube" width="22px" src="https://i.imgur.com/XRH1klC.png" />][youtube]
 [<img align="left" alt="ToonsHub | Discord" width="22px" src="https://i.postimg.cc/rs16rcqx/discord-512.png" />][discord]
 <br />
 
