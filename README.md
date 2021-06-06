@@ -4,20 +4,21 @@
 
 ## I'm a Web Developer
 
-- 🔭 I am currently learning to code 🤣
+- 🔭 I am currently learning to code in more programming languages.
+- 💪 I am in need of a inspiration.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Be better than that of 2020
-- ⚡ Fun fact: I love to watch cartoons!!
+- ⚡ Fun fact: I love to watch cartoons and anime!!
 
 ### Connect with me:
 
-[<img align="left" alt="toonshub.ml" width="22px" src="https://i.postimg.cc/L6j4tKxy/globe.png" />][website]
-[<img align="left" alt="TN | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" />][youtube]
-[<img align="left" alt="TN | Discord" width="22px" src="https://i.postimg.cc/rs16rcqx/discord-512.png" />][discord]
+[<img align="left" alt="toonshub.ga" width="22px" src="https://i.postimg.cc/L6j4tKxy/globe.png" />][website]
+[<img align="left" alt="ToonsHub | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" />][youtube]
+[<img align="left" alt="ToonsHub | Discord" width="22px" src="https://i.postimg.cc/rs16rcqx/discord-512.png" />][discord]
 <br />
 
 
-[website]: https://toonshub.ml
+[website]: https://toonshub.ga
 [youtube]: https://www.youtube.com/channel/UCL_YVurWT5RGkeHGbmG1odA
 [discord]: https://discord.gg/2mPFKykW4j
 
