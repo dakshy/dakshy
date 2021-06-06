@@ -1,6 +1,10 @@
 ### Hi there, I'm ToonsHub - aka [Daksh][website] 👋
 
-[![Website](https://img.shields.io/website?label=toonshub.ga&style=for-the-badge&url=https%3A%2F%2Ftoonshub.ga)](https://toonshub.ga)<br>
+[![Website](https://img.shields.io/website?label=toonshub.ga&style=for-the-badge&url=https%3A%2F%2Ftoonshub.ga)](https://toonshub.ga)<br><br>
+
+
+### My GitHub's Stats:
+
 ![ToonsHub's github stats](https://github-readme-stats.vercel.app/api?username=ToonsHub&show_icons=true&theme=radical&include_all_commits=true)<br>
 ## I'm a Web Developer
 
@@ -27,7 +31,7 @@
 
 <img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> <img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /> <img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-
+<br>
 
 ![ToonsHub's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ToonsHub&theme=radical&layout=compact)
 
