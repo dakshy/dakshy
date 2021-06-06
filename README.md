@@ -1,6 +1,6 @@
 ### Hi there, I'm ToonsHub - aka [Daksh][website] 👋
 
-[![Website](https://img.shields.io/website?label=toonshub.ml&style=for-the-badge&url=https%3A%2F%2Ftoon-nation.ml)](https://toonshub.ml)
+[![Website](https://img.shields.io/website?label=toonshub.ga&style=for-the-badge&url=https%3A%2F%2Ftoonshub.ga)](https://toonshub.ga)
 
 ## I'm a Web Developer
 
