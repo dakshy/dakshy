@@ -1,6 +1,6 @@
 ### Hi there, I'm ToonsHub - aka [Daksh][website] 👋
 
-[![Website](https://img.shields.io/website?label=toonshub.ga&style=for-the-badge&url=https%3A%2F%2Fexample.com)](https://toonshub.ga)<br><br>
+[![Website](https://img.shields.io/website?label=toonshub.ga&style=for-the-badge&url=https%3A%2F%2Ftoonshub.ga)](https://toonshub.ga)<br><br>
 
 
 ## My GitHub's Stats:
