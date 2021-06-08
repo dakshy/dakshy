@@ -4,7 +4,8 @@
 
 ## My GitHub's Stats:
 
-![ToonsHub's github stats][(https://github-readme-stats.vercel.app/api?username=ToonsHub&show_icons=true&theme=radical&include_all_commits=true)](https://toonshub.xyz)<br>
+![ToonsHub's github stats](https://github-readme-stats.vercel.app/api?username=ToonsHub&show_icons=true&theme=radical&include_all_commits=true)
+<br>
 ## I'm a Web Developer
 
 - 🔭 I am currently learning to code in more programming languages.
