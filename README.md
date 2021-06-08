@@ -1,5 +1,4 @@
 ### Hi there, I'm ToonsHub - aka [Daksh][website] 👋
-[<img align="left" alt="toonshub.ga" width="22px" src="https://img.shields.io/website?label=toonshub.xyz&style=for-the-badge&url=https%3A%2F%2Ftoonshub.xyz" />][website]
 [![Website](https://img.shields.io/website?label=toonshub.xyz&style=for-the-badge&url=https%3A%2F%2Ftoonshub.xyz)](https://toonshub.xyz)<br><br>
 
 
