@@ -1,11 +1,11 @@
 ### Hi there, I'm ToonsHub - aka [Daksh][website] 👋
 
-[![Website](https://img.shields.io/website?label=toonshub.ga&style=for-the-badge&url=https%3A%2F%2Ftoonshub.ga)](https://toonshub.ga)<br><br>
+[![Website](https://img.shields.io/website?label=toonshub.ga&style=for-the-badge&url=https%3A%2F%2Ftoonshub.xyz)](https://toonshub.xyz)<br><br>
 
 
 ## My GitHub's Stats:
 
-![ToonsHub's github stats](https://github-readme-stats.vercel.app/api?username=ToonsHub&show_icons=true&theme=radical&include_all_commits=true)<br>
+![ToonsHub's github stats](https://github-readme-stats.vercel.app/api?username=ToonsHub&show_icons=true&theme=radical&include_all_commits=true)(https://toonshub.xyz)<br>
 ## I'm a Web Developer
 
 - 🔭 I am currently learning to code in more programming languages.
