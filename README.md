@@ -18,7 +18,7 @@
 - 🥅 2021 Goals: Be better than that of 2020
 - ⚡ Fun fact: I love to watch cartoons and anime!!
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="toonshub.ga" width="22px" src="https://i.postimg.cc/L6j4tKxy/globe.png" />][website]
 [<img align="left" alt="ToonsHub | YouTube" width="22px" src="https://i.imgur.com/XRH1klC.png" />][youtube]
@@ -31,7 +31,7 @@
 [discord]: https://discord.gg/2mPFKykW4j
 
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="Visual" src="https://img.shields.io/badge/visual-%230008ff.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>
