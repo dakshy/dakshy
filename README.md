@@ -20,9 +20,9 @@
 
 ## Connect with me:
 
-[<img align="left" alt="toonshub.ga" width="22px" src="https://i.postimg.cc/L6j4tKxy/globe.png" />][website]
-[<img align="left" alt="ToonsHub | YouTube" width="22px" src="https://i.imgur.com/XRH1klC.png" />][youtube]
-[<img align="left" alt="ToonsHub | Discord" width="22px" src="https://i.postimg.cc/rs16rcqx/discord-512.png" />][discord]
+[<img align="left" alt="toonshub.ga" src="https://img.shields.io/badge/toonshub-%23ff3c00.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][website]
+[<img align="left" alt="ToonsHub | YouTube" src="https://img.shields.io/badge/youtube-%23e30000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
+[<img align="left" alt="ToonsHub | Discord" src="https://img.shields.io/badge/discord-%237289d9.svg?&style=for-the-badge&logo=discord&logoColor=white" />][discord]
 <br />
 
 
