@@ -20,7 +20,7 @@
 
 ## Connect with me:
 
-[<img align="left" alt="toonshub.ga" src="https://img.shields.io/badge/toonshub-%23ff3c00.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][website]
+[<img align="left" alt="toonshub.xyz" src="https://img.shields.io/badge/toonshub-%23ff3c00.svg?&style=for-the-badge&logo=rss&logoColor=white" />][website]
 [<img align="left" alt="ToonsHub | YouTube" src="https://img.shields.io/badge/youtube-%23e30000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
 [<img align="left" alt="ToonsHub | Discord" src="https://img.shields.io/badge/discord-%237289d9.svg?&style=for-the-badge&logo=discord&logoColor=white" />][discord]
 <br />
