@@ -23,12 +23,14 @@
 [<img align="left" alt="toonshub.xyz" src="https://img.shields.io/badge/toonshub-%23ff3c00.svg?&style=for-the-badge&logo=rss&logoColor=white" />][website]
 [<img align="left" alt="ToonsHub | YouTube" src="https://img.shields.io/badge/youtube-%23e30000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
 [<img align="left" alt="ToonsHub | Discord" src="https://img.shields.io/badge/discord-%237289d9.svg?&style=for-the-badge&logo=discord&logoColor=white" />][discord]
+[<img align="left" alt="Telegram" src="https://img.shields.io/badge/telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
 <br />
 
 
 [website]: https://toonshub.xyz
 [youtube]: https://www.youtube.com/channel/UCL_YVurWT5RGkeHGbmG1odA
 [discord]: https://discord.gg/2mPFKykW4j
+[telegram]: https://t.me/ToonsHub2006
 
 
 ## Languages and Tools:
