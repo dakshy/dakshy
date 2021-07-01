@@ -8,7 +8,7 @@
 
 ## My GitHub's Stats:
 
-![ToonsHub's github stats](https://github-readme-stats.vercel.app/api?username=ToonsHub&show_icons=true&theme=radical&include_all_commits=true)
+![ToonsHub's github stats](https://github-readme-stats.vercel.app/api?username=dakshy&show_icons=true&theme=radical&include_all_commits=true)
 <br>
 ## I'm a Web Developer
 
@@ -44,5 +44,5 @@
 
 <br>
 
-![ToonsHub's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ToonsHub&theme=radical&layout=compact)
+![ToonsHub's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dakshy&theme=radical&layout=compact)
 
