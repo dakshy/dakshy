@@ -20,20 +20,28 @@
 
 ## Connect with me:
 
-[<img align="left" alt="toonshub.xyz" src="https://img.shields.io/badge/toonshub-%23ff3c00.svg?&style=for-the-badge&logo=rss&logoColor=white" />][website]
-[<img align="left" alt="ToonsHub | YouTube" src="https://img.shields.io/badge/youtube-%23e30000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
-[<img align="left" alt="ToonsHub | Discord" src="https://img.shields.io/badge/discord-%237289d9.svg?&style=for-the-badge&logo=discord&logoColor=white" />][discord]
-<br />
-
-
-[website]: https://toonshub.xyz
-[youtube]: https://www.youtube.com/channel/UCL_YVurWT5RGkeHGbmG1odA
-[discord]: https://discord.gg/2mPFKykW4j
-<BR/>
+<p align="left">
+  <a href="https://toonshub.xyz">
+    <img src="https://img.shields.io/badge/toonshub-%23ff3c00.svg?&style=for-the-badge&logo=rss&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/2mPFKykW4j">
+    <img src="https://img.shields.io/badge/discord-%237289d9?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/channel/UCL_YVurWT5RGkeHGbmG1odA">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCL_YVurWT5RGkeHGbmG1odA?style=for-the-badge&logo=youtube&label=Youtube&color=red"/>
+  </a>
+  <a href="https://telegram.me/toonshubblog">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram"/>
+  </a>
+  <a href="https://github.com/dakshy">
+    <img src="https://img.shields.io/github/followers/dakshy?label=GitHub&logo=github&style=for-the-badge&color=black"/>
+  </a>
+</p>
 
 ## Languages and Tools:
 
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="PHP" src="https://img.shields.io/badge/php-%237289d9.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 <img alt="Visual" src="https://img.shields.io/badge/visual-%230008ff.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>
 <img alt="Java" src="https://img.shields.io/badge/Java-%2314854C.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/Javascript-faff00.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
