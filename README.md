@@ -1,4 +1,4 @@
-### Hi there, I'm Daksh - aka [ToonsHub][https://toonshub.xyz] 👋
+### Hi there, I'm Daksh - aka <a href="https://toonshub.xyz">ToonsHub</a> 👋
 [![https://toonshub.xyz](https://img.shields.io/website?label=toonshub.xyz&style=for-the-badge&url=https%3A%2F%2Ftoonshub.xyz)](https://toonshub.xyz)<br><br>
 
 
