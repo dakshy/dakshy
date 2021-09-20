@@ -1,5 +1,5 @@
-### Hi there, I'm Daksh - aka [ToonsHub][website] 👋
-[![Website](https://img.shields.io/website?label=toonshub.xyz&style=for-the-badge&url=https%3A%2F%2Ftoonshub.xyz)](https://toonshub.xyz)<br><br>
+### Hi there, I'm Daksh - aka [ToonsHub]["https://toonshub.xyz"] 👋
+[!["https://toonshub.xyz"](https://img.shields.io/website?label=toonshub.xyz&style=for-the-badge&url=https%3A%2F%2Ftoonshub.xyz)](https://toonshub.xyz)<br><br>
 
 
 <p align="center">
@@ -40,17 +40,16 @@
 
 ## Languages and Tools:
 
-<a href="https://github.com/dakshy"><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></a>
-<a href="https://github.com/dakshy"><img alt="PHP" src="https://img.shields.io/badge/php-%237289d9.svg?&style=for-the-badge&logo=php&logoColor=white"/></a>
-<a href="https://github.com/dakshy"><img alt="Visual" src="https://img.shields.io/badge/visual-%230008ff.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/></a>
-<a href="https://github.com/dakshy"><img alt="Java" src="https://img.shields.io/badge/Java-%2314854C.svg?&style=for-the-badge&logo=java&logoColor=white"/></a>
-<a href="https://github.com/dakshy"><img alt="Python" src="https://img.shields.io/badge/Javascript-faff00.svg?&style=for-the-badge&logo=javascript&logoColor=black"/></a>
-<a href="https://github.com/dakshy"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a>
-<a href="https://github.com/dakshy"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></a>
-<a href="https://github.com/dakshy"><img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/></a>
-<a href="https://github.com/dakshy"><img alt="GitHub" src="https://img.shields.io/badge/github-%23921011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="PHP" src="https://img.shields.io/badge/php-%237289d9.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+<img alt="Visual" src="https://img.shields.io/badge/visual-%230008ff.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/Java-%2314854C.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/Javascript-faff00.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/github-%23921011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
 <br>
 
 ![ToonsHub's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dakshy&theme=radical&layout=compact)
-
