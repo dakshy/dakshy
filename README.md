@@ -16,6 +16,7 @@
 - 💪 I am in need of a inspiration.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Be better than that of 2020
+- ⏳ Sad Thing: Waiting for some freetime to watch some Anime.
 - ⚡ Fun fact: I love to watch cartoons and anime!!
 
 ## Connect with me:
