@@ -54,3 +54,4 @@
 <br>
 
 ![ToonsHub's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dakshy&theme=radical&layout=compact)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dakshy)](https://github.com/dakshy)
