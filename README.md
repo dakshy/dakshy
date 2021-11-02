@@ -56,7 +56,6 @@
 <a href="https://www.java.com/en/" target="_blank"> <img align="left" alt="git" width="26px" src="https://i.postimg.cc/j26473Lx/PROBLEME-AVEC-JAVA-SUR-WINDOWS-10.png"/> </a>
 <a href="https://github.com/" target="_blank"> <img align="left" alt="GitHub" width="26px" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" /> </a>
 
-<br><br><br>
+<br><br>
 
 ![ToonsHub's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dakshy&theme=radical&layout=compact)
-[![trophy](https://github-profile-trophy.vercel.app/?username=dakshy)](https://github.com/dakshy)
