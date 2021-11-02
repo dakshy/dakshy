@@ -41,15 +41,20 @@
 
 ## Languages and Tools:
 
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="PHP" src="https://img.shields.io/badge/php-%237289d9.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-<img alt="Visual" src="https://img.shields.io/badge/visual-%230008ff.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>
-<img alt="Java" src="https://img.shields.io/badge/Java-%2314854C.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-<img alt="Python" src="https://img.shields.io/badge/Javascript-faff00.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
-<img alt="GitHub" src="https://img.shields.io/badge/github-%23921011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+
+<a href="https://www.w3schools.com/php/" target="_blank"><img align="left" alt="PHP" width="28px" src="https://i.dlpng.com/static/png/5419450-php-image-png-98-images-in-collection-page-2-php-png-270_200_preview.png" /></a>
+
+<a href="https://www.w3schools.com/python/" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
+
+<a href="https://www.w3schools.com/bootstrap/" target="_blank"> <img align="left" alt="BootStrap" width="26px" src="https://i.postimg.cc/Y993Tzn8/bootstrap-logo.png"/> </a>
+
+<a href="https://www.w3schools.com/js/" target="_blank"> <img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/> </a>
+
+<a href="https://www.java.com/en/" target="_blank"> <img align="left" alt="git" width="26px" src="https://i.postimg.cc/j26473Lx/PROBLEME-AVEC-JAVA-SUR-WINDOWS-10.png"/> </a>
+<a href="https://github.com/" target="_blank"> <img align="left" alt="GitHub" width="26px" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" /> </a>
 
 <br>
 
