@@ -1,5 +1,5 @@
 ### Hi there, I'm Daksh - aka <a href="https://toonshub.xyz">ToonsHub</a> 👋
-[![https://toonshub.xyz](https://img.shields.io/website?label=toonshub.xyz&style=for-the-badge&url=https%3A%2F%2Ftoonshub.xyz)](https://toonshub.xyz)<br><br>
+[![https://toonshub.xyz](https://img.shields.io/website?label=toonshub.xyz&style=for-the-badge&url=https%3A%2F%2Fexample.com)](https://toonshub.xyz)<br><br>
 
 
 <p align="center">
