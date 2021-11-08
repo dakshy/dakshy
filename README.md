@@ -48,7 +48,10 @@
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23921011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-<br><br>
+<br>
+
+## About Me
+<br>
 
 ```py
 About Me = [
