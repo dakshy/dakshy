@@ -1,7 +1,7 @@
 ### Hi there, I'm <a href="https://toonshub.xyz">ToonsHub</a> 👋
 [![https://toonshub.xyz](https://img.shields.io/website?label=toonshub.xyz&style=for-the-badge&url=https%3A%2F%2Fexample.com)](https://toonshub.xyz)<br><br>
 
-<h4 align="center">A Closed-Source Developer and Always Develop in PHP and Python 🐍.<br>I like to work alone.</h4>
+<h4 align="center">A Closed-Source Developer and I always develop in PHP and Python 🐍.</h4>
 
 ## My GitHub's Stats:
 
@@ -11,10 +11,10 @@
 
 - 🔭 I am currently learning to code in more programming languages.
 - 💪 I am in need of a inspiration.
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Be better than that of 2020
+- 👯 I’m looking to collaborate with other programmers for knowledge.
+- 🥅 2021 Goals: Be better than that of 2020.
 - ⏳ Sad Thing: Waiting for some freetime to watch some Anime.
-- ⚡ Fun fact: I love to watch cartoons and anime!!
+- ⚡ Fun fact: I like to work alone.
 
 ## Connect with me:
 
@@ -47,3 +47,14 @@
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23921011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<br><br>
+
+```py
+About Me = [
+    "I'm student with noob knowledge",
+    "I know about Python, HTML, CSS, PHP, JS, and Much More ...!",
+    "I code for different topics everyday.",
+    "I am lost in my own world !! 💞"
+    "I like to work for myself. 😋"
+]
+```
