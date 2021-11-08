@@ -1,4 +1,4 @@
-### Hi there, I'm <a href="https://toonshub.xyz">ToonsHub</a> 👋
+### <img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif"> Hi there, I'm <a href="https://toonshub.xyz">ToonsHub</a> 👋
 [![https://toonshub.xyz](https://img.shields.io/website?label=toonshub.xyz&style=for-the-badge&url=https%3A%2F%2Fexample.com)](https://toonshub.xyz)<br><br>
 
 <h4 align="center">A Closed-Source Developer and I always develop in PHP and Python 🐍.</h4>
