@@ -51,8 +51,6 @@
 <br>
 
 ## About Me
-<br>
-
 ```py
 About Me = [
     "I'm student with noob knowledge",
