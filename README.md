@@ -1,10 +1,7 @@
 ### Hi there, I'm <a href="https://toonshub.xyz">ToonsHub</a> 👋
 [![https://toonshub.xyz](https://img.shields.io/website?label=toonshub.xyz&style=for-the-badge&url=https%3A%2F%2Fexample.com)](https://toonshub.xyz)<br><br>
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=F77247&width=420&lines=I+am+a+Passionate+Web+Developer%EF%B8%8F;I%20just%20love%20to%20code%20free-minded%EF%B8%8F;It%20is%20the%20only%20work%20which%20I%20like%20to%20do%EF%B8%8F%EF%B8%8F;Please%20visit%20and%20support%20ToonsHub.xyz%EF%B8%8F">
-</p>
+<h4 align="center">A Closed-Source Developer and Always Develop in PHP and Python 🐍.<br>I like to work alone.</h4>
 
 ## My GitHub's Stats:
 
