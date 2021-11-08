@@ -1,9 +1,9 @@
-### <img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif"> Hi there, I'm <a href="https://toonshub.xyz">ToonsHub</a> 👋
+### Hi there, I'm <a href="https://toonshub.xyz">ToonsHub</a> 👋
 [![https://toonshub.xyz](https://img.shields.io/website?label=toonshub.xyz&style=for-the-badge&url=https%3A%2F%2Fexample.com)](https://toonshub.xyz)<br><br>
 
 <h4 align="center">A Closed-Source Developer and I always develop in PHP and Python 🐍.</h4>
 
-## My GitHub's Stats:
+## <img width="20" src="https://github.githubassets.com/images/mona-loading-default.gif"> My GitHub's Stats:
 
 ![ToonsHub's github stats](https://github-readme-stats.vercel.app/api?username=dakshy&show_icons=true&theme=radical&include_all_commits=true)
 <br>
