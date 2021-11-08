@@ -3,7 +3,6 @@
 
 <h4 align="center">A Closed-Source Developer and I always develop in PHP and Python 🐍.</h4>
 
-<br>
 ## <img width="25" src="https://github.githubassets.com/images/mona-loading-default.gif"> My GitHub's Stats:
 
 ![ToonsHub's github stats](https://github-readme-stats.vercel.app/api?username=dakshy&show_icons=true&theme=radical&include_all_commits=true)
