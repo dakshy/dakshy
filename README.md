@@ -35,6 +35,9 @@
   <a href="https://github.com/dakshy">
     <img src="https://img.shields.io/github/followers/dakshy?label=GitHub&logo=github&style=for-the-badge&color=black"/>
   </a>
+  <a href="https://twitter.com/toonshub">
+    <img src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter"/>
+  </a>
 </p>
 
 ## Languages and Tools:
