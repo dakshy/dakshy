@@ -1,7 +1,7 @@
 ### Hi there, I'm <a href="https://toonshub.xyz">ToonsHub</a> 👋
 [![https://toonshub.xyz](https://img.shields.io/website?label=toonshub.xyz&style=for-the-badge&url=https%3A%2F%2Fexample.com)](https://toonshub.xyz)<br><br>
 
-<h4 align="center">A Closed-Source Developer and I always develop in PHP and Python 🐍.</h4>
+<p align="center">A Closed-Source Developer and I always develop in PHP and Python 🐍.</p>
 
 ## <img width="25" src="https://github.githubassets.com/images/mona-loading-default.gif"> My GitHub's Stats:
 
@@ -9,9 +9,11 @@
 <br>
 ## I'm a Web Developer
 
-- 🔭 I am currently learning to code in more programming languages.
+- 😢 Never got any reason to be happy in life. 
+- 🔭 I am currently trying to learn to code in various programming languages.
 - 💪 I am in need of a inspiration.
-- 🙂 Programming is a blessing for me.
+- 🙂 Programming is a kind of blessing for me. It gives me relief. 
+- 🤧 My family does not support me in programming. 
 - 👯 I’m looking to collaborate with other programmers for knowledge.
 - 🥅 2021 Goals: Be better than that of 2020.
 - ⏳ Sad Thing: Waiting for some freetime to watch some Anime.
