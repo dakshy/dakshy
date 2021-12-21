@@ -67,4 +67,4 @@ About Me = [
 ## My Open Source Repos
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=dakshy&repo=droplink-bot&theme=radical)](https://github.com/dakshy/droplink-bot)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=toonshub&theme=radical&repo=toonshub.github.io)](https://github.com/toonshub/toonshub.github.io)
+[![](https://github-readme-stats.vercel.app/api/pin/?theme=radical&username=toonshub&repo=toonshub.github.io)](https://github.com/toonshub/toonshub.github.io)
