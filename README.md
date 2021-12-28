@@ -15,9 +15,9 @@
 - 🙂 Programming is a kind of blessing for me. It gives me relief. 
 - 🤧 My family does not support me in programming. 
 - 👯 I’m looking to collaborate with other programmers for knowledge.
-- 🥅 2021 Goals: Be better than that of 2020.
-- ⏳ Sad Thing: Waiting for some freetime to watch some Anime.
-- ⚡ Fun fact: I like to work alone.
+- 🥅 2022 Goals: Be better than that of 2021.
+- ⏳ Sad fact: Waiting for some freetime to watch some Anime.
+- ⚡ Fun fact: I hate Facebook and Instagram.
 
 ## Connect with me:
 
