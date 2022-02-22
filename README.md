@@ -9,7 +9,7 @@
 <br>
 ## I'm a Web Developer
 
-- 😢 Never got any reason to be happy in life. 
+- 😢 I am stressed by a mountain of books. 
 - 🔭 I am currently trying to learn to code in various programming languages.
 - 💪 I am in need of a inspiration.
 - 🙂 Programming is a kind of blessing for me. It gives me relief. 
