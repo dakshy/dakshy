@@ -31,7 +31,7 @@
   <a href="https://youtube.com/channel/UCL_YVurWT5RGkeHGbmG1odA">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCL_YVurWT5RGkeHGbmG1odA?style=for-the-badge&logo=youtube&label=Youtube&color=red"/>
   </a>
-  <a href="https://telegram.me/toonshubblog">
+  <a href="https://telegram.me/toonshub2006">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram"/>
   </a>
   <a href="https://github.com/dakshy">
