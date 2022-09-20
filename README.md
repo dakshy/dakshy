@@ -26,13 +26,13 @@
     <img src="https://img.shields.io/badge/toonshub-%23ff3c00.svg?&style=for-the-badge&logo=rss&logoColor=white"/>
   </a>
   <a href="https://discord.gg/2mPFKykW4j">
-    <img src="https://img.shields.io/badge/discord-%237289d9?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="https://youtube.com/channel/UCL_YVurWT5RGkeHGbmG1odA">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCL_YVurWT5RGkeHGbmG1odA?style=for-the-badge&logo=youtube&label=Youtube&color=red"/>
+    <img src="https://dcbadge.vercel.app/api/server/2mPFKykW4j"/>
   </a>
   <a href="https://telegram.me/toonshub2006">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram"/>
+  </a>
+  <a href="https://youtube.com/channel/UCL_YVurWT5RGkeHGbmG1odA">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCL_YVurWT5RGkeHGbmG1odA?style=for-the-badge&logo=youtube&label=Youtube&color=red"/>
   </a>
   <a href="https://github.com/dakshy">
     <img src="https://img.shields.io/github/followers/dakshy?label=GitHub&logo=github&style=for-the-badge&color=black"/>
