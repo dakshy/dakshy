@@ -43,6 +43,6 @@
 
 [![Discord](https://dcbadge.vercel.app/api/server/2mPFKykW4j)](https://discord.gg/2mPFKykW4j)
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/toonshub2006)
-[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](toonshub-india@protonmail.com)
+[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:toonshub-india@protonmail.com)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCL_YVurWT5RGkeHGbmG1odA?style=for-the-badge&logo=youtube&label=Youtube&color=red)](https://youtube.com/channel/UCL_YVurWT5RGkeHGbmG1odA)
 <a href="https://twitter.com/toonshub"><img src="https://img.shields.io/badge/Twitter-blue.svg?style=for-the-badge&logo=twitter"></a> [![GitHub](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github)](https://github.com/dakshy)  <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
