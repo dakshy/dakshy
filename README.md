@@ -23,13 +23,12 @@
 [![https://toonshub.xyz](https://img.shields.io/website?label=toonshub.xyz&style=for-the-badge&url=https%3A%2F%2Fexample.com)](https://toonshub.xyz)
 - Hi there! I'm ToonsHub, a self taught programmer from the anime community.
 - I'm currently learning Python, PHP and web development.
-- Programming is the only love of my life.
-- Apart from programming related stuffs, I love watching anime & reading manga in free time.
+- Programming is the only thing both my heart and brain wants.
+- Apart from programming related stuffs, I love watching anime & reading manga ~~in free time~~.
 
 <h2>Stuffs I've built (NOTHING USEFUL)<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"</img></h2>
 
 - Most works are private, also I do not sell them for money, so do not try.
-- [atozcartoonist-bypasser](https://github.com/dakshy/atozcartoonist-bypasser) Python script for bypassing atozcartoonist.com poorly developed site and get direct links.
 - [droplink-bot](https://github.com/dakshy/droplink-bot) Droplink URL Shortener Bot, deployable to Heroku and Railway.
 - [ServerlessTelegram](https://github.com/dakshy/ServerlessTelegram) A telegram bot which can be hosted on Vercel or any other serverless platform.
 
@@ -38,6 +37,10 @@
 ![ToonsHub's github stats](https://github-readme-stats.vercel.app/api?username=dakshy&show_icons=true&theme=radical&include_all_commits=true)
 
 ![](https://komarev.com/ghpvc/?username=dakshy)
+
+<h2>Meet our community on Discord<img src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" width="30"</img></h2>
+
+[![](https://invidget.switchblade.xyz/2mPFKykW4j)](https://discord.gg/2mPFKykW4j)
 
 <h2>Get in touch<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"/></h2>
 
