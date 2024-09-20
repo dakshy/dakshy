@@ -34,11 +34,11 @@
 
 <h2>GitHub Stats<img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50"</img></h2>
 
-<!-- ![ToonsHub's github stats](https://github-readme-stats.vercel.app/api?username=dakshy&show_icons=true&theme=radical&include_all_commits=true)
+![ToonsHub's github stats](https://github-readme-stats.vercel.app/api?username=dakshy&show_icons=true&theme=radical&include_all_commits=true)
 
 ![](https://komarev.com/ghpvc/?username=dakshy)
 
-<h2>Meet our community on Discord<img src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" width="30"</img></h2>
+<!-- <h2>Meet our community on Discord<img src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" width="30"</img></h2>
 
 [![](https://invidget.switchblade.xyz/2mPFKykW4j)](https://discord.gg/2mPFKykW4j)
 
