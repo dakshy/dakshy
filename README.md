@@ -17,7 +17,7 @@
 
 </p>
 
-<h2>Welcome! <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="36"></h2>
+<h2>Welcome! <img src="https://i.imgur.com/73e87oX.gif" width="36"></h2>
 
 ### Hi there, I'm <a href="#">Daksh</a> 👋
 <!-- [![https://toonshub.xyz](https://img.shields.io/website?label=toonshub.xyz&style=for-the-badge&url=https%3A%2F%2Fexample.com)](https://toonshub.xyz) -->
@@ -32,7 +32,7 @@
 - [droplink-bot](https://github.com/dakshy/droplink-bot) Droplink URL Shortener Bot, deployable to Heroku and Railway.
 - [ServerlessTelegram](https://github.com/dakshy/ServerlessTelegram) A telegram bot which can be hosted on Vercel or any other serverless platform. -->
 
-<h2>GitHub Stats<img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50"</img></h2>
+<h2>GitHub Stats<img src="https://i.imgur.com/C8hjp1x.gif" width="50"</img></h2>
 
 ![ToonsHub's github stats](https://github-readme-stats.vercel.app/api?username=dakshy&show_icons=true&theme=radical&include_all_commits=true)
 
