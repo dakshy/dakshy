@@ -32,7 +32,7 @@
 - [droplink-bot](https://github.com/dakshy/droplink-bot) Droplink URL Shortener Bot, deployable to Heroku and Railway.
 - [ServerlessTelegram](https://github.com/dakshy/ServerlessTelegram) A telegram bot which can be hosted on Vercel or any other serverless platform. -->
 
-<h2>GitHub Stats<img src="https://i.imgur.com/C8hjp1x.gif" width="50"</img></h2>
+<h2>GitHub Stats <img src="https://i.imgur.com/C8hjp1x.gif" width="30"</img></h2>
 
 ![ToonsHub's github stats](https://github-readme-stats.vercel.app/api?username=dakshy&show_icons=true&theme=radical&include_all_commits=true)
 
