@@ -23,7 +23,6 @@
 <!-- [![https://toonshub.xyz](https://img.shields.io/website?label=toonshub.xyz&style=for-the-badge&url=https%3A%2F%2Fexample.com)](https://toonshub.xyz) -->
 - A self taught programmer who also belongs to the otaku community.
 - I'm currently learning Python, PHP and web development.
-<!-- - Programming is the only thing both my heart and brain wants. -->
 - Apart from programming related stuffs, I love mathematics, watching anime & reading manga ~~in free time~~.
 
 <!-- <h2>Stuffs I've built (NOTHING USEFUL)<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"</img></h2>
