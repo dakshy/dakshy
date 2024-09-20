@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/BwVJTeM.jpg" align="center" style="width: 100%" />
+<!-- <img src="https://i.imgur.com/BwVJTeM.jpg" align="center" style="width: 100%" /> -->
 
 <p align="centre">
 
@@ -19,22 +19,22 @@
 
 <h2>Welcome! <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="36"></h2>
 
-### Hi there, I'm <a href="https://toonshub.xyz">ToonsHub</a> 👋
-[![https://toonshub.xyz](https://img.shields.io/website?label=toonshub.xyz&style=for-the-badge&url=https%3A%2F%2Fexample.com)](https://toonshub.xyz)
-- Hi there! I'm ToonsHub, a self taught programmer from the anime community.
+### Hi there, I'm <a href="#">Daksh</a> 👋
+<!-- [![https://toonshub.xyz](https://img.shields.io/website?label=toonshub.xyz&style=for-the-badge&url=https%3A%2F%2Fexample.com)](https://toonshub.xyz) -->
+- A self taught programmer who also belongs to the otaku community.
 - I'm currently learning Python, PHP and web development.
-- Programming is the only thing both my heart and brain wants.
-- Apart from programming related stuffs, I love watching anime & reading manga ~~in free time~~.
+<!-- - Programming is the only thing both my heart and brain wants. -->
+- Apart from programming related stuffs, I love mathematics, watching anime & reading manga ~~in free time~~.
 
-<h2>Stuffs I've built (NOTHING USEFUL)<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"</img></h2>
+<!-- <h2>Stuffs I've built (NOTHING USEFUL)<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"</img></h2>
 
 - Most works are private, also I do not sell them for money, so do not try.
 - [droplink-bot](https://github.com/dakshy/droplink-bot) Droplink URL Shortener Bot, deployable to Heroku and Railway.
-- [ServerlessTelegram](https://github.com/dakshy/ServerlessTelegram) A telegram bot which can be hosted on Vercel or any other serverless platform.
+- [ServerlessTelegram](https://github.com/dakshy/ServerlessTelegram) A telegram bot which can be hosted on Vercel or any other serverless platform. -->
 
 <h2>GitHub Stats<img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50"</img></h2>
 
-![ToonsHub's github stats](https://github-readme-stats.vercel.app/api?username=dakshy&show_icons=true&theme=radical&include_all_commits=true)
+<!-- ![ToonsHub's github stats](https://github-readme-stats.vercel.app/api?username=dakshy&show_icons=true&theme=radical&include_all_commits=true)
 
 ![](https://komarev.com/ghpvc/?username=dakshy)
 
@@ -48,4 +48,4 @@
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/toonshub2006)
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:toonshub-india@protonmail.com)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCL_YVurWT5RGkeHGbmG1odA?style=for-the-badge&logo=youtube&label=Youtube&color=red)](https://youtube.com/channel/UCL_YVurWT5RGkeHGbmG1odA)
-<a href="https://twitter.com/toonshub"><img src="https://img.shields.io/badge/Twitter-blue.svg?style=for-the-badge&logo=twitter"></a> [![GitHub](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github)](https://github.com/dakshy)  <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
+<a href="https://twitter.com/toonshub"><img src="https://img.shields.io/badge/Twitter-blue.svg?style=for-the-badge&logo=twitter"></a> [![GitHub](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github)](https://github.com/dakshy)  <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/> -->
