@@ -19,7 +19,7 @@
 
 <h2>Welcome! <img src="https://i.imgur.com/73e87oX.gif" width="36"></h2>
 
-### Hi there, I'm <a href="#">Daksh</a> 👋
+### Hi there, I'm <a href="#">Daijin</a> 👋
 <!-- [![https://toonshub.xyz](https://img.shields.io/website?label=toonshub.xyz&style=for-the-badge&url=https%3A%2F%2Fexample.com)](https://toonshub.xyz) -->
 - A self taught programmer who also belongs to the otaku community.
 - I'm currently learning Python, PHP and web development.
